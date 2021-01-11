@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "esnext",
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "typeRoots" : [
+      "../vkrbt.me/node_modules/@types", "."]
+  },
+  "exclude": [
+    "../vkrbt.me/node_modules"
+  ]
+}

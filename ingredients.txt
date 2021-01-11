@@ -1,0 +1,90 @@
+gin	Джин	джин	джин «old tom gin»	old tom джин
+vodka	водка	водка
+pisco	писко	водка виноградная писко
+vodka citron	лимонная водка	водка лимонная
+absinth	абсент	абсент	абсента
+white rum	белый ром	ром белый	светлый ром	белый ром	ром светлый
+dark rum	темный ром	темный ром	ром темный
+gold rum	золотой ром	ром золотой
+cachaça	кашаса	кашаса (бразильская ром из тростника)
+tequila	текила	текила	текила серебряная
+ginger ale	имбирный эль	имбирный эль (лимонад)
+ginger beer	имбирное пиво	пиво имбирное
+sugar	сахар	1 сахарный кубик	1 чайная ложка темного сахар	2 чайные ложки тростникового сахара	сахар
+liquid from canned olives	жидкость из консервированных оливок	жидкость от консервированных оливок
+coconut milk	кокосовое молоко	кокосовое молоко
+Peychaud’s bitter	биттер Пишо	биттер peychaud's
+white wine	белое вино	сухое белое вино
+water	вода	вода
+honey	мед	мед
+onion	лук	лук
+chili pepper	перец чили	перец чили острый красный
+grapefruit juice	грейпфрутовый сок	грейпфрутовый сок	сок грейпфрутовый
+maraschino liqueur	ликер мараскино	ликёр maraschino	ликер мараскино
+DOM Benedictine liqueur	ликер бенедиктин	ликер бенедиктин (dom)
+Drambuie liqueur	ликер драмбуи	драмбуи ликер
+galliano liqueur	ликер гальяно	ликёр galliano	ликер galliano
+orange curacao liqueur	ликер оранж кюрасао	ликер orange curacao
+coffee liqueur	ликер кофейный	кофейный ликер	ликер кофейный
+creme de cacao liqueur	ликер шоколадный	ликер крем де какао (темный)	ликер creme de cacao
+amaretto liqueur	ликер амаретто	ликер амаретто (миндальный)
+creme de cassis liqueur	ликер из черной смородины	ликер creme de cassis	ликер creme de cassis (черная смородина)
+mint liqueur	ликер мятный	ликер крем де мент (светлый)	ликер мятный зеленый
+kirsch liqueur	ликер кирш	ликер kirsch (белый вишневый)
+Baileys Irish Cream liqueur	ликер бейлис	ликер bailey's irish cream  ликер bailey\\'s irish cream
+cherry brandy liqueur	вишневый ликер	вишневый ликер cherry brandy
+raspberry liqueur	ликер малиновый	ликер малиновый
+blackberry liqueur	ликер ежевичный	ликер ежевичный
+apricot liqueur	ликер абрикосовый	ликер абрикосовый	абрикосовый ликер
+cointreau liqueur	ликер куантро	ликер куантро	куантро или трипл сек
+triple sec liqueur	ликер трипл сек	ликёр triple sec	ликер triple sec	ликер grand marnier или triple sec
+peach puree	персиковое пюре	пюре из свежего персика
+lillet blanc	лиллет светлый	лиллет светлый lillet blond
+tawny port wine	портвейн тони	красный портвейн
+egg yolk	яичный желток	желток яйца
+angostura orange bitter	оранж битер	оранж битер	оранж биттер
+pineapple juice	ананасовый сок	ананасовый фреш	сок ананасовый	ананасовый сок
+grenadine	гренадин	сироп гренадин	гренадин
+strawberry syrup	клубничный сироп	сироп клубничный
+sparkling wine	игристое вино	охлажденное игристое вино	вино игристое	шампанское охлажденное	долить игристое вино	вино игристое prosecco	шампанское
+aperol	Aperol	aperol
+tomato juice	томатный сок	сок томатный
+Worcestershire sauce	Вустершир соус	соус worcestershire
+tabasco sauce	соус табаско	соус tabasco
+pepper	перец	перец
+salt	соль	соль
+sugar powder	сахарная пудра	сахарная пудра
+lemon zest	лимонная цедра	цедра лимона
+orange	апельсин	апельсин
+cocktail cherry	коктейльная вишня	вишня коктейльная
+Peach Schnapps	Персиковый шнапс	персиковый ликер или персиковый шнапс
+cranberry juice	клюквенный сок	клюквенный сок
+hot coffee	горячий кофе	горячий кофе
+cold espresso	холодный эспрессо	кофе эспрессо холодный
+calvados	кальвадос	кальвадос
+almond syrup	миндальный сироп	миндальный сироп
+cola	кола	кола	кока
+agave syrup	сироп агавы	нектар агавы
+Campari	кампари	биттер кампари	кампари
+sweet red vermouth	сладкий красный вермут	сладкий красный вермут
+dry vermouth	сухой вермут	вермут сухой	сухой вермут
+lemon juice	лимонный сок	лимонный сок	сок лимона или лайма	сок лимона	сок лимонный
+lime juice	лаймовый сок	сок лайма	лайм	сок лайма свежевыжатый
+lime	лайм	лайм
+sugar syrup	сахарный сироп	сахарный сироп	сироп сахарный	сахарный песок
+soda water	содовая	содовая	содовая.	добавить немного содовой	вода содовая	содовая вода
+peach bitter	персиковый биттер	персиковый биттер
+mint	мята	мята
+raspberry syrup	малиновый сироп	малиновый сироп
+egg white	Яичный белок	белок яйца	дэш белка яйца или яичного порошка
+orange juice	апельсиновый сок	апельсиновый сок	сок апельсиновый	апельсиновый фреш
+Cognac	коньяк	коньяк	коньяк или бренди	бренди
+cream	сливки	сливки
+whipped cream	взбитые сливки	взбитые сливки
+rye whisky	ржаной виски	рай виски (ржаной)
+scotch whisky	шотландский виски	шотландский виски
+irish whisky	ирландский виски	ирландские виски
+bourbon whisky	бурбон	бурбон виски	бурбон	бурбон, скотч или рай виски (выбор)
+Angostura bitter	Ангостура	биттер ангостура	angostura bitters (рекомендуется)	настойка angostura bitter	Angustora bitter
+Vanilla Extract	Экстракт ванили	экстракт ванили
+Orange Flower Water	вода из цветка апельсина	вода с ароматом апельсина

@@ -1,0 +1,30 @@
+{
+  "top": [
+    "gin",
+    "cognac",
+    "tequila",
+
+    "white rum",
+    "dark rum",
+    "gold rum",
+
+    "rye whisky",
+    "bourbon whisky",
+    "scotch whisky",
+    "irish whisky",
+
+    "vodka citron",
+    "vodka",
+    "pisco",
+
+    "campari",
+    "cachaça",
+    "sparkling wine",
+    "white wine",
+
+    "galliano liqueur",
+    "creme de cacao liqueur",
+    "kirsch liqueur",
+    "coffee liqueur"
+  ]
+}

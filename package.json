@@ -1,0 +1,30 @@
+{
+  "name": "vkrbt-cocktails",
+  "description": "vkrbt iba cocktails list",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "sapper dev",
+    "build": "sapper build",
+    "export": "sapper export",
+    "start": "node __sapper__/build"
+  },
+  "dependencies": {
+    "compression": "^1.7.1",
+    "image-webpack-loader": "^7.0.1",
+    "polka": "next",
+    "sirv": "^1.0.0"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "file-loader": "^6.0.0",
+    "needle": "^2.6.0",
+    "sapper": "^0.28.0",
+    "svelte": "^3.17.3",
+    "svelte-loader": "^2.9.0",
+    "svg-inline-loader": "^0.8.2",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3",
+    "webpack": "^4.7.0",
+    "webpack-modules": "^1.0.0"
+  }
+}
