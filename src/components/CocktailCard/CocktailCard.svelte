@@ -25,7 +25,7 @@
         {cocktail.en}
     </h3>
     <div class="card">
-        <div class="icon">
+        <div class="icon" style="color: {cocktail.color}">
             {@html ICONS[cocktail.dish]}
         </div>
         <!--            <div>-->
@@ -49,6 +49,7 @@
         </ul>
     </div>
     <span class="method">{cocktail.method}</span>
+    <a href={cocktail.ibaLink}>IBA</a>
 </div>
 
 <style>
